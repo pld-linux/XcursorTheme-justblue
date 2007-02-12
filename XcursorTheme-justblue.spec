@@ -1,6 +1,6 @@
 %define		_name justblue
 Summary:	X11 cursor theme - justblue
-Summary(pl):	Notyw kursorów dla X11 - justblue
+Summary(pl.UTF-8):   Notyw kursorÃ³w dla X11 - justblue
 Name:		XcursorTheme-%{_name}
 Version:	0.21
 Release:	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 A gradiented, blue/gray cursor theme.
 
-%description -l pl
-Niebiesko-szary motyw kursorów z gradientem.
+%description -l pl.UTF-8
+Niebiesko-szary motyw kursorÃ³w z gradientem.
 
 %prep
 
