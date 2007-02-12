@@ -1,6 +1,6 @@
 %define		_name justblue
 Summary:	X11 cursor theme - justblue
-Summary(pl.UTF-8):   Notyw kursorów dla X11 - justblue
+Summary(pl.UTF-8):	Notyw kursorów dla X11 - justblue
 Name:		XcursorTheme-%{_name}
 Version:	0.21
 Release:	1
